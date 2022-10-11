@@ -1,0 +1,6 @@
+export { default as Navbar } from './Navbar/Navbar'
+export { default as Header } from './Header/Header'
+export { default as Stats } from './Stats/Stats'
+export { default as Collectibles } from './Collectibles/Collectibles'
+export { default as Category } from './Category/Category'
+export { default as Footer } from './Footer/Footer'
